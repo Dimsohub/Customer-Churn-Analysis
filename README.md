@@ -8,12 +8,8 @@ This project analyzes the Telco Customer Churn dataset from Kaggle ([dataset lin
 ### 1. Data Preparation
 - Imported the Telco Customer Churn dataset from Kaggle
 - Cleaned the data, handling missing values and standardizing formats
-- Created calculated fields for analysis:
-  - `Churn Rate` = SUM([Churn Count]) / COUNT([CustomerID])
-  - `Tenure in Months` = [tenure]
-  - `Average Monthly Charges` = AVG([MonthlyCharges])
-  - `Average Total Charges` = AVG([TotalCharges])
-
+- Created calculated fields for analysis
+  
 ### 2. Key Visualizations Created
 
 #### Demographic Analysis
