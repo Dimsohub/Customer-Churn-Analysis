@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes the Telco Customer Churn dataset from Kaggle ([dataset link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)) to identify patterns and factors that contribute to customer churn. The dashboard visualizes various dimensions affecting churn rates and provides insights into customer behavior.
 
+You can view the interactive dashboard on Tableau Public ([here](https://public.tableau.com/views/Book1_17408627895420/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)).
+
 ## Development Process
 
 ### 1. Data Preparation
